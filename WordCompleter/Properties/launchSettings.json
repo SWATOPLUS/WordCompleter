@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WordCompleter": {
+      "commandName": "Project",
+      "commandLineArgs": "template.docx data.json result.docx",
+      "workingDirectory": "."
+    }
+  }
+}
